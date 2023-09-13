@@ -1,0 +1,72 @@
+table{
+    width: 100%;
+    background-color:rgb(1, 168, 168);
+    border-radius: 5px;
+}
+
+th ,td {
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.shapes{
+    width: 400px;
+    margin-top: 50px;
+}
+.squre{
+    display: inline-block;
+    
+    height: 90px;
+    width: 90px;
+    border: 3px solid greenyellow;
+    margin: 15px;
+    border-radius: 5px;
+
+}
+.rounded-squre{
+    display: inline-block;
+    height: 90px;
+    width: 90px;
+    border: 3px solid greenyellow;
+    margin: 15px;
+    border-radius: 20px;
+}
+.little-rounded-squre{
+    display: inline-block;
+    height: 90px;
+    width: 90px;
+    border: 3px solid greenyellow;
+    margin: 15px;
+    border-radius: 10px;
+}
+.perfect-squre{
+    display: inline-block;
+    height: 90px;
+    width: 90px;
+    border: 3px solid greenyellow;
+    margin: 15px;
+    
+
+}
+
+.circle{
+    display: inline-block;
+    height: 90px;
+    width: 90px;
+    border: 3px solid greenyellow;
+    margin: 15px;
+    border-radius: 80px;
+}
+.twosided-squre{
+    display: inline-block;
+    height: 90px;
+    width: 90px;
+    border: 3px solid greenyellow;
+    margin: 15px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    
+
+}
